@@ -1,4 +1,4 @@
-package mockito;
+package java.mockito;
 
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
